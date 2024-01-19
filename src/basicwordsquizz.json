@@ -1,0 +1,25 @@
+{
+    "quiz": [
+        {
+            "key": "House",
+            "wordEng": "House",
+            "wordFi": "Talo",
+            "descpEng": "Peter lives in a house.",
+            "descpFi": "Petteri asuu talossa."
+        },
+        {
+            "key": "Congratulations",
+            "wordEng": "Congratulations",
+            "wordFi": "Onnittelut",
+            "descpEng": "Congratulation Peter!",
+            "descpFi": "Onnittelut Petteri!"
+        },
+        {
+            "key": "Disappointment",
+            "wordEng": "Disappointment",
+            "wordFi": "Pettymys",
+            "descpEng": "Peter is a disappointment.",
+            "descpFi": "Petteri on pettymys."
+        }
+    ]
+}
